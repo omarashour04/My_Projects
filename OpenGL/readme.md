@@ -38,7 +38,7 @@ This project is a **3D house scene built with OpenGL**, featuring:
 | Key | Action |  
 |-----|--------|  
 | ⬅️➡️ | Move Character |  
-| [Custom Key] | Speed Up/Slow Down Car |  
+| [ Button ] | Speed Up/Slow Down Car |  
 
 ## **📌 Future Improvements**  
 - 🌫 **Weather Effects** – Add rain, fog, or clouds  
